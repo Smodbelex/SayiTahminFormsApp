@@ -1,0 +1,17 @@
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.csproj.AssemblyReference.cache
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.Form1.resources
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.csproj.GenerateResource.cache
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.AssemblyInfoInputs.cache
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.AssemblyInfo.cs
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.csproj.CoreCompileInputs.cache
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\bin\Debug\net6.0-windows\sayitahmin.exe
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\bin\Debug\net6.0-windows\sayitahmin.deps.json
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\bin\Debug\net6.0-windows\sayitahmin.runtimeconfig.json
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\bin\Debug\net6.0-windows\sayitahmin.dll
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\bin\Debug\net6.0-windows\sayitahmin.pdb
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.dll
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\refint\sayitahmin.dll
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.pdb
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\sayitahmin.genruntimeconfig.cache
+C:\Users\emir_\source\repos\sayitahmin\sayitahmin\obj\Debug\net6.0-windows\ref\sayitahmin.dll
